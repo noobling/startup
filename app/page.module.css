@@ -7,6 +7,10 @@
   min-height: 100vh;
 }
 
+.subtitle {
+  font-weight: 100;
+}
+
 .description {
   display: inherit;
   justify-content: inherit;
@@ -73,9 +77,9 @@
 }
 
 .center {
-  display: flex;
+  /* display: flex;
   justify-content: center;
-  align-items: center;
+  align-items: center; */
   position: relative;
   padding: 4rem 0;
 }
